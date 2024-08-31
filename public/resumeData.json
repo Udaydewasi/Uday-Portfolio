@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Uday dewasi",
+    "occupation": "Mern developer",
+    "image": "rp.jpg",
+    "bio": "Hello there! I’m Uday, a Mern developer, now advancing towards becoming a Software Developer. I specialize in creating scalable web applications and robust backend systems that deliver exceptional user experiences. With a strong foundation in frontend development using React, and extensive experience in backend technologies like Node.js and Express, I ensure seamless integration between client-side and server-side components. Driven by curiosity and a passion for technology, I constantly upgrade my skills to stay at the cutting edge. I thrive on challenges and excel in transforming complex requirements into high-quality solutions. Let’s connect and see how my expertise in both frontend and backend can add value to your next project.",
+    "contactMessage": "Get in touch with me!",
+    "email": "udaydewasi4321@gmail.com",
+    "address": {
+      "city": "Jodhpur,",
+      "state": "Rajasthan"
+    },
+    "resumeDownload": "https://drive.google.com/file/d/1iHr34tHPh7T7LaiCv8JW_ST3FuhRUM7D/view?usP=drivesdk",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://x.com/udaydewasi2601",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/uday-dewasi-278aab268/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/udaydewasi",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/uday_dewasi_26/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillMessage": "I specialize in",
+    "education": [
+      {
+        "school": "MBM University Jodhpur",
+        "degree": "B.E. Computer Science",
+        "graduated": "2026",
+        "description": "pursuing with 7.57 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "WebStack",
+        "title": "Web Intern",
+        "years": "July 2024",
+        "description": "Engineered a cutting-edge survey platform that gleaned insights from diverse regions. Crafted an engaging user interface using React JS, Redux, and Material-UI. Seamlessly integrated APIs for a holistic user experience. Orchestrated production deployments on AWS using Jenkins for scalability and reliability."
+      }
+    ],
+
+    "skills": [
+      {
+        "name":"C/C++, Java, Python",
+        "level":"85%"
+      },
+      {
+        "name": "DSA, Object Oriented Programming",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJS , ExpressJS",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript, HTML, CSS",
+        "level": "80%"
+      },
+      {
+        "name": "React, Redux",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB, PostgreSQL, MySQL",
+        "level": "85%"
+      },
+      {
+        "name": "Git, GitHub, Postman",
+        "level": "85%"
+      },
+      {
+        "name": "AWS, Vercel, Render",
+        "level": "85%"
+      },
+      {
+        "name": "Linux, Ubantu",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Learnify (MongoDB, Node.js, Express, React, Tailwindcss)",
+        "category": "web application",
+        "image": "Learnify homepage.png",
+        "url": "https://github.com/Udaydewasi/Learnify"
+      },
+      {
+        "title": "sociafy (React, MongoDB, Node.js, Express)",
+        "category": "web application",
+        "image": "sociafy.png",
+        "url": "https://github.com/Udaydewasi/Social-Media-Sociafy"
+      },
+      {
+        "title": "Shopping App(React, Redux, Tailwindcss)",
+        "category": "web application",
+        "image": "shop.png",
+        "url": "https://github.com/Udaydewasi/Shopping-cart"
+      },
+      {
+        "title": "Password Generator (Javascript, Tailwind CSS, HTML)",
+        "category": "web application",
+        "image": "password.png",
+        "url": "https://github.com/Udaydewasi/Password_Generator"
+      },
+      {
+        "title": "Weather App (Javascript, Tailwind CSS, Api)",
+        "category": "web application",
+        "image": "weather.png",
+        "url": "https://github.com/Udaydewasi/Weather_App"
+      },
+      {
+        "title": "Tic Tac Toe (Javascript, Tailwind CSS)",
+        "category": "web application",
+        "image": "game.png",
+        "url": "https://github.com/Udaydewasi/Tic-Tac-Toe-Game"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Winners never quit, and quitters never win.” ",
+        "user": "Vince Lombardi"
+      }
+    ]
+  }
+}
