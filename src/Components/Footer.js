@@ -25,14 +25,8 @@ const Footer = ({ data }) => {
             <ul className="copyright">
               <li>
                 <span style={ { color: "#fff" } }>2024 || Made with</span>
-                <a
-                  title="Atul"
-                  href="https://linktr.ee/imatul"
-                  target="_blank"
-                  rel="noreferrer"
-                >
+                
                   <span style={ { color: "#3d3d" } }> ❤️ By Uday Dewasi © 2024</span>
-                </a>
               </li>
             </ul>
           </div>
