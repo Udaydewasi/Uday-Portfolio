@@ -55,7 +55,7 @@
 
     "skills": [
       {
-        "name":"C/C++, Java, Python",
+        "name":"C/C++, Java",
         "level":"85%"
       },
       {
@@ -83,11 +83,11 @@
         "level": "85%"
       },
       {
-        "name": "AWS, Vercel, Render",
+        "name": "Vercel, Render",
         "level": "85%"
       },
       {
-        "name": "Linux, Ubantu",
+        "name": "Linux, Ubantu, RHEL",
         "level": "85%"
       }
     ]
