@@ -55,12 +55,15 @@
 
     "skills": [
       {
-        "name":"C/C++, Java",
+        "name":"C/C++, Java, Python",
         "level":"85%"
       },
       {
-        "name": "DSA, Object Oriented Programming",
+        "name": "DSA, OOPs",
         "level": "85%"
+      },
+      { "name": "AWS", "CI/CD pipeline",
+        "level": "70"
       },
       {
         "name": "NodeJS , ExpressJS",
@@ -72,7 +75,7 @@
       },
       {
         "name": "React, Redux",
-        "level": "75%"
+        "level": "85%"
       },
       {
         "name": "MongoDB, PostgreSQL, MySQL",
@@ -80,15 +83,11 @@
       },
       {
         "name": "Git, GitHub, Postman",
-        "level": "85%"
+        "level": "95%"
       },
       {
-        "name": "Vercel, Render",
-        "level": "85%"
-      },
-      {
-        "name": "Linux, Ubantu, RHEL",
-        "level": "85%"
+        "name": "Linux, Windows",
+        "level": "90%"
       }
     ]
   },
